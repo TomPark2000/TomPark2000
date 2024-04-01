@@ -5,5 +5,5 @@
 - **Machine Learning Bootcamp**: Actively participating in a comprehensive Python for Data Science and Machine Learning bootcamp, tackling projects that range from predictive modeling to data visualization.
 
 ### 🌱 Learning Journey
-- Currently immersed in a Data Science and Machine Learning bootcamp, where I'm mastering Python and exploring algorithms and models that drive insights from data.
-- Passionate about the potential of Machine Learning and actively seeking projects and collaborations in this area.
+- Currently immersed in the potential of Machine Learning and actively seeking projects and collaborations in this area. 
+- In the process of mastering Python and exploring algorithms and models that drive insights from data.
