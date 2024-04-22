@@ -7,3 +7,5 @@
 ### 🌱 Learning Journey
 - Currently immersed in the potential of Machine Learning and actively seeking projects and collaborations in this area. 
 - In the process of mastering Python and exploring algorithms and models that drive insights from data.
+
+Please note that these are not all my projects, writing descriptions takes time :) 
